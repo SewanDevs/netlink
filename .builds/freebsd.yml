@@ -2,7 +2,7 @@ image: freebsd/latest
 packages:
   - go
 sources:
-  - https://github.com/mdlayher/netlink
+  - https://github.com/SewanDevs/netlink
 environment:
   GO111MODULE: "on"
 tasks:

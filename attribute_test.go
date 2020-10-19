@@ -9,7 +9,7 @@ import (
 	"unsafe"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/mdlayher/netlink/nlenc"
+	"github.com/SewanDevs/netlink/nlenc"
 )
 
 func TestMarshalAttributes(t *testing.T) {

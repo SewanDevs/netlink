@@ -1,4 +1,4 @@
-module github.com/mdlayher/netlink
+module github.com/SewanDevs/netlink
 
 go 1.12
 
